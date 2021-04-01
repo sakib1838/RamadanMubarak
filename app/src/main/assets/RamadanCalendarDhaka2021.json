@@ -1,0 +1,218 @@
+{
+  "rahamat": [
+    {
+      "ramadanDay": "01",
+      "date": "14-04-2021",
+      "day": "Wednesday",
+      "Sehar": "4:15 AM",
+      "Iftar": "6:23 PM"
+    },
+    {
+      "ramadanDay": "02",
+      "date": "15-04-2021",
+      "day": "Thursday",
+      "Sehar": "4:14 AM",
+      "Iftar": "6:24 PM"
+    },
+    {
+      "ramadanDay": "03",
+      "date": "16-04-2021",
+      "day": "Friday",
+      "Sehar": "4:13 AM",
+      "Iftar": "6:24 PM"
+    },
+    {
+      "ramadanDay": "04",
+      "date": "17-04-2021",
+      "day": "Saturday",
+      "Sehar": "4:12 AM",
+      "Iftar": "6:24 PM"
+    },
+    {
+      "ramadanDay": "05",
+      "date": "18-04-2021",
+      "day": "Sunday",
+      "Sehar": "4:11 AM",
+      "Iftar": "6:25 PM"
+    },
+    {
+      "ramadanDay": "06",
+      "date": "19-04-2021",
+      "day": "Monday",
+      "Sehar": "4:10 AM",
+      "Iftar": "6:25 PM"
+    },
+    {
+      "ramadanDay": "07",
+      "date": "20-04-2021",
+      "day": "Tuesday",
+      "Sehar": "4:09 AM",
+      "Iftar": "6:26 PM"
+    },
+    {
+      "ramadanDay": "08",
+      "date": "21-04-2021",
+      "day": "Wednesday",
+      "Sehar": "4:08 AM",
+      "Iftar": "6:26 PM"
+    },
+    {
+      "ramadanDay": "09",
+      "date": "22-04-2021",
+      "day": "Thursday",
+      "Sehar": "4:07 AM",
+      "Iftar": "6:27 PM"
+    },
+    {
+      "ramadanDay": "10",
+      "date": "23-04-2021",
+      "day": "Friday",
+      "Sehar": "4:06 AM",
+      "Iftar": "6:27 PM"
+    }
+  ],
+  "magfirat": [
+    {
+      "ramadanDay": "11",
+      "date": "24-04-2021",
+      "day": "Saturday",
+      "Sehar": "4:05 AM",
+      "Iftar": "6:28 PM"
+    },
+    {
+      "ramadanDay": "12",
+      "date": "25-04-2021",
+      "day": "Sunday",
+      "Sehar": "4:05 AM",
+      "Iftar": "6:28 PM"
+    },
+    {
+      "ramadanDay": "13",
+      "date": "26-04-2021",
+      "day": "Monday",
+      "Sehar": "4:04 AM",
+      "Iftar": "6:29 PM"
+    },
+    {
+      "ramadanDay": "14",
+      "date": "27-04-2021",
+      "day": "Tuesday",
+      "Sehar": "4:03 AM",
+      "Iftar": "6:29 PM"
+    },
+    {
+      "ramadanDay": "15",
+      "date": "28-04-2021",
+      "day": "Wednesday",
+      "Sehar": "4:02 AM",
+      "Iftar": "6:29 PM"
+    },
+    {
+      "ramadanDay": "16",
+      "date": "29-04-2021",
+      "day": "Thursday",
+      "Sehar": "4:01 AM",
+      "Iftar": "6:30 PM"
+    },
+    {
+      "ramadanDay": "17",
+      "date": "30-04-2021",
+      "day": "Friday",
+      "Sehar": "4:00 AM",
+      "Iftar": "6:30 PM"
+    },
+    {
+      "ramadanDay": "18",
+      "date": "01-05-2021",
+      "day": "Saturday",
+      "Sehar": "3:59 AM",
+      "Iftar": "6:31 PM"
+    },
+    {
+      "ramadanDay": "19",
+      "date": "02-05-2021",
+      "day": "Sunday",
+      "Sehar": "3:58 AM",
+      "Iftar": "6:31 PM"
+    },
+    {
+      "ramadanDay": "20",
+      "date": "03-05-2021",
+      "day": "Monday",
+      "Sehar": "3:57 AM",
+      "Iftar": "6:32 PM"
+    }
+  ],
+  "najat": [
+    {
+      "ramadanDay": "21",
+      "date": "04-05-2021",
+      "day": "Tuesday",
+      "Sehar": "3:55 AM",
+      "Iftar": "6:32 PM"
+    },
+    {
+      "ramadanDay": "22",
+      "date": "05-05-2021",
+      "day": "Wednesday",
+      "Sehar": "3:54 AM",
+      "Iftar": "6:33 PM"
+    },
+    {
+      "ramadanDay": "23",
+      "date": "06-05-2021",
+      "day": "Thursday",
+      "Sehar": "3:53 AM",
+      "Iftar": "6:33 PM"
+    },
+    {
+      "ramadanDay": "24",
+      "date": "07-05-2021",
+      "day": "Friday",
+      "Sehar": "3:52 AM",
+      "Iftar": "6:34 PM"
+    },
+    {
+      "ramadanDay": "25",
+      "date": "08-05-2021",
+      "day": "Saturday",
+      "Sehar": "3:51 AM",
+      "Iftar": "6:34 PM"
+    },
+    {
+      "ramadanDay": "26",
+      "date": "09-05-2021",
+      "day": "Sunday",
+      "Sehar": "3:50 AM",
+      "Iftar": "6:35 PM"
+    },
+    {
+      "ramadanDay": "27",
+      "date": "10-05-2021",
+      "day": "Monday",
+      "Sehar": "3:50 AM",
+      "Iftar": "6:35 PM"
+    },
+    {
+      "ramadanDay": "28",
+      "date": "11-05-2021",
+      "day": "Tuesday",
+      "Sehar": "3:49 AM",
+      "Iftar": "6:36 PM"
+    },
+    {
+      "ramadanDay": "29",
+      "date": "12-05-2021",
+      "day": "Wednesday",
+      "Sehar": "3:49 AM",
+      "Iftar": "6:36 PM"
+    },
+    {
+      "ramadanDay": "30",
+      "date": "13-05-2021",
+      "day": "Thursday",
+      "Sehar": "3:48 AM",
+      "Iftar": "6:36 PM"
+    }
+  ]
+}
